@@ -3,3 +3,4 @@
 2 git log 
 3 git add filename
 4 git add .  all files in local path
+5 git diff filename -- head 查看不同
