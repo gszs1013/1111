@@ -7,5 +7,5 @@
 6 git log --pretty=oneline
 7 git reset --hard head^   一个^代表回退几个版本  head^^表示回退两个版本
   git reset --hard head~5  表示回退5个版本
-8 git reset --hard head 版本唯一标识   到指定的版本
+8 git reset --hard 版本唯一标识   到指定的版本
 9 git reflog 查看历史log
