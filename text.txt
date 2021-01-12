@@ -1,1 +1,5 @@
 1111222333
+1 git status
+2 git log 
+3 git add filename
+4 git add .  all files in local path
